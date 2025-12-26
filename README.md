@@ -30,6 +30,6 @@
 
 <h2 align="center"><b>📈 Stats</h2>
 <p align="center"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hujuc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hujuc&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujuc&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" />
 </p>
