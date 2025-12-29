@@ -32,6 +32,9 @@
 <p align="center"> 
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hujuc&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujuc&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" /> -->
-  ![Stats]([https://github-readme-stats.vercel.app/api?username=hujuc&show_icons=true](https://github-readme-stats-sigma-five.vercel.app/api?username=hujuc&show_icons=true))
-  ![Linguagens]([https://github-readme-stats.vercel.app/api/top-langs/?username=hujuc](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hujuc))
 </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hujuc&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hujuc&layout=compact&theme=radical" />
+</p>
+
