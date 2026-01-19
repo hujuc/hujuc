@@ -34,7 +34,7 @@
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujuc&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" /> -->
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hujuc&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hujuc&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hujuc&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hujuc&layout=compact&exclude_repo=Somnia-RVA" />
 </p>
 
